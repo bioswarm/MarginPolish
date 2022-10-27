@@ -1,6 +1,6 @@
 [submodule "externalTools/htslib"]
 	path = externalTools/htslib
-	url = https://github.com/samtools/htslib.git
+	url = https://github.91chi.fun/https://github.com/samtools/htslib.git
 [submodule "externalTools/sonLib"]
 	path = externalTools/sonLib
-	url = https://github.com/benedictpaten/sonLib.git
+	url = https://github.91chi.fun/https://github.com/benedictpaten/sonLib.git
